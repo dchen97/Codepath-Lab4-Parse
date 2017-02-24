@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Codepath-lab4-parse/LoginViewController.swift"
+            timestampString = "509424033.012936"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Codepath_lab4_parse.LoginViewController.viewDidLoad () -&gt; ()"
+                  moduleName = "Codepath-lab4-parse"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dianakc/GitHub/Codepath-Lab4-Parse/Codepath-lab4-parse/Codepath-lab4-parse/LoginViewController.swift"
+                  timestampString = "509424037.966358"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "314">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Codepath_lab4_parse.LoginViewController.(viewDidLoad () -&gt; ()).(closure #1)"
+                  moduleName = "Codepath-lab4-parse"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dianakc/GitHub/Codepath-Lab4-Parse/Codepath-lab4-parse/Codepath-lab4-parse/LoginViewController.swift"
+                  timestampString = "509424037.973919"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Codepath-lab4-parse/LoginViewController.swift"
+            timestampString = "509424484.317227"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "signUp()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Codepath-lab4-parse/ChatViewController.swift"
+            timestampString = "509568503.30831"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Codepath_lab4_parse.ChatViewController.__deallocating_deinit"
+                  moduleName = "Codepath-lab4-parse"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dianakc/GitHub/Codepath-Lab4-Parse/Codepath-lab4-parse/Codepath-lab4-parse/ChatViewController.swift"
+                  timestampString = "509567734.520451"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Codepath_lab4_parse.ChatViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Codepath_lab4_parse.ChatViewController"
+                  moduleName = "Codepath-lab4-parse"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dianakc/GitHub/Codepath-Lab4-Parse/Codepath-lab4-parse/Codepath-lab4-parse/ChatViewController.swift"
+                  timestampString = "509567734.522039"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "107">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Codepath_lab4_parse.ChatViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Codepath_lab4_parse.ChatViewController"
+                  moduleName = "Codepath-lab4-parse"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dianakc/GitHub/Codepath-Lab4-Parse/Codepath-lab4-parse/Codepath-lab4-parse/ChatViewController.swift"
+                  timestampString = "509567734.523573"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Codepath_lab4_parse.ChatViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Codepath_lab4_parse.ChatViewController&gt;"
+                  moduleName = "Codepath-lab4-parse"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dianakc/GitHub/Codepath-Lab4-Parse/Codepath-lab4-parse/Codepath-lab4-parse/ChatViewController.swift"
+                  timestampString = "509567734.525435"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Codepath_lab4_parse.ChatViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Codepath_lab4_parse.ChatViewController&gt;"
+                  moduleName = "Codepath-lab4-parse"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dianakc/GitHub/Codepath-Lab4-Parse/Codepath-lab4-parse/Codepath-lab4-parse/ChatViewController.swift"
+                  timestampString = "509567734.526662"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Codepath-lab4-parse/LoginViewController.swift"
+            timestampString = "509612852.889149"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "logIn()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Codepath-lab4-parse/LoginViewController.swift"
+            timestampString = "509612852.889149"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "logIn()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Codepath-lab4-parse/LoginViewController.swift"
+            timestampString = "509611843.247762"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "signUp()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Codepath-lab4-parse/LoginViewController.swift"
+            timestampString = "509612852.889149"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "signUp()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
